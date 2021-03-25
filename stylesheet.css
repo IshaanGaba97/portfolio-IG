@@ -1,0 +1,141 @@
+
+.header-logo{
+    color:blue;
+    font-weight: 250px;
+    background-color: black;
+    padding: 50px;
+    font-weight: 800;
+    margin: auto;
+    font-size: 80px;
+}
+
+
+.header-list li{
+    float: left;
+   
+    
+}
+
+.content{
+    background-color: black;
+}
+.information{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-right: 150px;
+    word-spacing: 5px;
+    font-size: larger;
+}
+ .information img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.skills{
+    color:blue;
+    font-weight: 600;
+    font-size: large;
+    margin-left: 300px;
+    margin-right: 600px;
+    list-style: none;
+}
+
+.contact{ 
+    background-color:black;
+    font-weight: bolder;
+     
+}
+
+.contact h3{
+    color: white;
+    margin-left: 500px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 80px;
+    margin-left: 510px;
+    text-decoration: none;
+  }
+ 
+  .fa-facebook {
+    background: #3B5998;
+    
+    color: white;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-instagram{
+    background: #f007aa;
+    color: white;
+  }
+
+.education{
+    background-color: black;
+    color: white;
+    
+}
+
+.college{
+    color: white;
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.school{
+    color:white;
+    margin-left: 300px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.certificates{
+    background-color: black;
+    display: block;
+}
+
+.udemy img{
+    width: 400px; 
+    margin-left: 400px;
+    
+}
+.udemy h2{
+    color: white;
+    background-attachment: black;
+    margin-left: 300px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.progate img{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.bpit img{
+    width: 400px;
+    margin-left: 400px;
+}
+
+.college img{
+    width: 300px;
+    margin-left: 100px;
+}
+
+.school img{
+    width: 300px;
+    margin-left: 100px;
+}
