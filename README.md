@@ -1,5 +1,6 @@
 # portfolio-IG
-this is my first project of html and css
+This is my first project of html and css made under hackathon progate web dev week.
+
 This is a webpage of a portfolio describing myself. The functions used are 
 Padding
 Margin
